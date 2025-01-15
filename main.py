@@ -1,11 +1,11 @@
 import telebot
 from mcrcon import MCRcon
 
-BOT_TOKEN = "7731318728:AAFCdxIiaB8yHlhFR1N5wsXQL079INlqsG8"
-RCON_HOST = "donator38.gamely.pro"
-RCON_PORT = 20614
-RCON_PASSWORD = "12345678"
-ALLOWED_USERS = ["absolute_fqwfdcv"] 
+BOT_TOKEN = ""
+RCON_HOST = ""
+RCON_PORT = 
+RCON_PASSWORD = ""
+ALLOWED_USERS = [""] 
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
